@@ -1,0 +1,11 @@
+D:\Study_A\3rd\sln_03\RBMsg\bin\Debug\RBMsg.exe.config
+D:\Study_A\3rd\sln_03\RBMsg\bin\Debug\RBMsg.exe
+D:\Study_A\3rd\sln_03\RBMsg\bin\Debug\RBMsg.pdb
+D:\Study_A\3rd\sln_03\RBMsg\obj\Debug\RBMsg.csproj.AssemblyReference.cache
+D:\Study_A\3rd\sln_03\RBMsg\obj\Debug\RBMsg.csproj.SuggestedBindingRedirects.cache
+D:\Study_A\3rd\sln_03\RBMsg\obj\Debug\RBMsg.Form1.resources
+D:\Study_A\3rd\sln_03\RBMsg\obj\Debug\RBMsg.Properties.Resources.resources
+D:\Study_A\3rd\sln_03\RBMsg\obj\Debug\RBMsg.csproj.GenerateResource.cache
+D:\Study_A\3rd\sln_03\RBMsg\obj\Debug\RBMsg.csproj.CoreCompileInputs.cache
+D:\Study_A\3rd\sln_03\RBMsg\obj\Debug\RBMsg.exe
+D:\Study_A\3rd\sln_03\RBMsg\obj\Debug\RBMsg.pdb

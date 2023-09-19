@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_TextView", "A_TextView\A_TextView.csproj", "{67678F5C-49CD-4DE5-A3B2-D4CE58A9A14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBMsg", "RBMsg\RBMsg.csproj", "{67746F86-171D-4877-B6ED-2A31E4B7D772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67678F5C-49CD-4DE5-A3B2-D4CE58A9A14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67678F5C-49CD-4DE5-A3B2-D4CE58A9A14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67678F5C-49CD-4DE5-A3B2-D4CE58A9A14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67678F5C-49CD-4DE5-A3B2-D4CE58A9A14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67746F86-171D-4877-B6ED-2A31E4B7D772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67746F86-171D-4877-B6ED-2A31E4B7D772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67746F86-171D-4877-B6ED-2A31E4B7D772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67746F86-171D-4877-B6ED-2A31E4B7D772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {809217DC-103A-43A7-AE3B-F5B29B18E294}
+	EndGlobalSection
+EndGlobal
